@@ -17,6 +17,9 @@ Email Me 👉 ✉️ **sidharthbsunil@gmail.com** For Collaboration/Project or A
 <div align="center">
   <img src="https://profile-readme-generator.com/assets/snake.svg" alt="Snake animation" />
 </div>
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=SidharthBSunil&label=Profile%20views&color=38b2ac&style=flat" alt="jinsonjijy" />
+</p>
 
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=sidharthbsunil&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
