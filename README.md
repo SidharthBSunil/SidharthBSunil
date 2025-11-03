@@ -3,7 +3,7 @@
 
 Email Me 👉 ✉️ **sidharthbsunil@gmail.com** For Collaboration/Project or Anything Else. 😊😊
 
-- 🔭 **I’m currently working on:** Embedded Project
+- 🔭 **I’m currently working on:** Embedded System Project
 - 🌱 **I’m currently learning:** ROS
 
 ## 🌐 Socials:
